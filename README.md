@@ -7,8 +7,8 @@
 <p align="center">
   Contact me:
   <p align="center"> 
-    <a href="https://www.linkedin.com/in/johanning14/" alt="Linkedin"><img src="https://github.com/AJohanning/AJohanning/blob/src/in_icon.png?raw=true" hspace="10" height="50" width="50"></a>
-  <a href="https://www.facebook.com/johanning14" alt="Facebook"><img src="https://github.com/AJohanning/AJohanning/blob/src/fb_icon.png?raw=true" hspace="10" height="50" width="50"></a>
-  <a href="https://www.instagram.com/johanning14" alt="Facebook"><img src="https://github.com/AJohanning/AJohanning/blob/src/ig_icon.png?raw=true" hspace="10" height="50" width="50"></a>
-    <a href="mailto:aj@aj-content.dk" alt="Contact me"><img src="https://github.com/AJohanning/AJohanning/blob/src/mail_icon.png?raw=true" hspace="10" height="50" width="50"></a>
+    <a href="https://www.linkedin.com/in/johanning14/" alt="Linkedin"><img src="https://github.com/AJohanning/AJohanning/blob/main/in_icon.png?raw=true" hspace="10" height="50" width="50"></a>
+  <a href="https://www.facebook.com/johanning14" alt="Facebook"><img src="https://github.com/AJohanning/AJohanning/blob/main/fb_icon.png?raw=true" hspace="10" height="50" width="50"></a>
+  <a href="https://www.instagram.com/johanning14" alt="Instagram"><img src="https://github.com/AJohanning/AJohanning/blob/main/ig_icon.png?raw=true" hspace="10" height="50" width="50"></a>
+    <a href="mailto:aj@aj-content.dk" alt="Email me"><img src="https://github.com/AJohanning/AJohanning/blob/main/mail_icon.png?raw=true" hspace="10" height="50" width="50"></a>
   </p>
