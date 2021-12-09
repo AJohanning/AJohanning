@@ -1,4 +1,4 @@
-### <h2>Hi🙏🏻, I'm Anders!
+<h2>I'm
   </br>
 
 <img align="left"  src="https://i.imgur.com/k2xcD2B.gif" alt="ANDERS" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
@@ -12,5 +12,3 @@
   <a href="https://www.instagram.com/johanning14" alt="Facebook"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" height="30" width="30"></a>
     <a href="mailto:aj@aj-content.dk" alt="Contact me"><img src="https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/114/aiga_mail_inver-512.png" height="30" width="30"></a>
   </p>
-
-⭐️ From [AJohanning](https://github.com/AJohanning)
